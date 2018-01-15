@@ -1,4 +1,5 @@
 /*
+https://www.hackerrank.com/challenges/simple-text-editor/problem
 In this challenge, you must implement a simple text editor. Initially, your editor contains an empty string, . You must perform  operations of the following  types:
 
 append - Append string  to the end of .
